@@ -1,0 +1,22 @@
+.head{
+    text-align: center;
+    font-size: 80ox;
+    font-style: italic;
+    text-decoration: underline; /* underlne overline line-through*/
+    text-decoration-color: red;
+    text-decoration-style: wavy;/* double dotted dashed wavy solid*/
+    word-spacing: 4px;
+    font-family: monospace;
+
+}
+
+.para{
+    font-weight: bold;
+    line-height: 40px;
+    /*letter-spacing: 5px;*/
+    color: blue;
+}
+
+.heading{
+    text-transform: capitalize; /* lowercase uppercase capitalize*/
+}
