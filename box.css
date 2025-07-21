@@ -1,0 +1,24 @@
+.main-section{
+    background-color: yellow;
+    padding: 20px 20px 10px;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+.another-section{
+    background-color: aqua;
+    padding: 30px;
+    margin-top: 30px;
+    /*border-radius: 25px;*/
+    border-left: 15px solid green;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+   
+}
+
+.box{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+     box-shadow: 4px 5px 10px 8px red;
+}
