@@ -1,0 +1,13 @@
+.container{
+    background-color:silver;
+    display: flex;
+    justify-content: space-evenly;  /*for row*/
+    align-items: center; /* for columns*/
+}
+.container div{
+    height: 200px;
+    width: 200px;
+    color: white;
+
+}
+
