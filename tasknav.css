@@ -1,0 +1,17 @@
+.tasnav{
+    background-color: rgb(255, 81, 0);
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.tasnav ul{
+    display: flex;
+    gap:40px;
+    list-style: none;
+}
+.navbar{
+    background-color: red;
+    position: sticky;
+    top: 0  ;
+}
